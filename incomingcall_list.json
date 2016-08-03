@@ -1,0 +1,113 @@
+{
+    "list": [
+        {
+            "actionid": "1234",
+            "starttime": "0",
+            "mobile": "0497963127",
+            "dnid": "84482818",
+            "duration": "60000",
+            "dtmfseq1": "3",
+            "callerduration": "2120000"
+        },
+        {
+            "actionid": "1235",
+            "starttime": "0",
+            "mobile": "0497963138",
+            "dnid": "84482818",
+            "duration": "60000",
+            "dtmfseq1": "3",
+            "callerduration": "2120000"
+        },
+        {
+            "actionid": "1236",
+            "starttime": "0",
+            "mobile": "0497963149",
+            "dnid": "84482818",
+            "duration": "60000",
+            "dtmfseq1": "3",
+            "callerduration": "2220000"
+        },
+        {
+            "actionid": "1237",
+            "starttime": "0",
+            "mobile": "0497963150",
+            "dnid": "84482818",
+            "duration": "60000",
+            "dtmfseq1": "3",
+            "callerduration": "2260000"
+        },
+        {
+            "actionid": "1238",
+            "starttime": "5000",
+            "mobile": "0497963161",
+            "dnid": "84482818",
+            "duration": "60000",
+            "dtmfseq1": "3",
+            "callerduration": "2260000"
+        },
+        {
+            "actionid": "1239",
+            "starttime": "5000",
+            "mobile": "0497963172",
+            "dnid": "84482818",
+            "duration": "60000",
+            "dtmfseq1": "3",
+            "callerduration": "2220000"
+        },
+        {
+            "actionid": "1240",
+            "starttime": "5000",
+            "mobile": "0497963183",
+            "dnid": "84482818",
+            "duration": "60000",
+            "dtmfseq1": "3",
+            "callerduration": "2220000"
+        },
+        {
+            "actionid": "1241",
+            "starttime": "10000",
+            "mobile": "0497963194",
+            "dnid": "84482818",
+            "duration": "60000",
+            "dtmfseq1": "3",
+            "callerduration": "220000"
+        },
+        {
+            "actionid": "1242",
+            "starttime": "15000",
+            "mobile": "0497963105",
+            "dnid": "84482818",
+            "duration": "60000",
+            "dtmfseq1": "3",
+            "callerduration": "160000"
+        },
+        {
+            "actionid": "1243",
+            "starttime": "30000",
+            "mobile": "0497963236",
+            "dnid": "84482818",
+            "duration": "60000",
+            "dtmfseq1": "3",
+            "callerduration": "160000"
+        },
+        {
+            "actionid": "1244",
+            "starttime": "40000",
+            "mobile": "0497963337",
+            "dnid": "84482818",
+            "duration": "60000",
+            "dtmfseq1": "3",
+            "callerduration": "60000"
+        },
+        {
+            "actionid": "1245",
+            "starttime": "50000",
+            "mobile": "0497963438",
+            "dnid": "84482818",
+            "duration": "60000",
+            "dtmfseq1": "3",
+            "callerduration": "60000"
+        }
+        
+    ]
+}
